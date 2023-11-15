@@ -14,4 +14,4 @@ if($_POST['brand']) {
 }
 ?>
 <hr>
-<a href="index.html">Voltar para o registro de carros</a>
+<a href="index.php">Voltar para o registro de carros</a>
