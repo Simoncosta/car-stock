@@ -1,0 +1,6 @@
+Porsche|Taycan|2024|108555
+FIAT|500 Abart Scorpion|2018|32000
+Audi|A1 Vermelho|2016|50000
+Aldi|A1 Vermelho|2016|60000
+Tesla|Model Y|2024|50000
+Audi|Model S|2024|80000
