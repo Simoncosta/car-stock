@@ -6,6 +6,7 @@
         'Honda',
         'Volvo',
         'Volkswagen',
+        'Peugeot'
     ];
 ?>
 <!DOCTYPE html>
